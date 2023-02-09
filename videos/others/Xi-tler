@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Xi-tler</title>
+    </head>
+    <body>
+        <video src="./test.mp4" controls="controls" width="1280px" height="720px"></video>
+    </body>
+</html>
